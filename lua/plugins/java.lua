@@ -1,5 +1,4 @@
 return {
-  { import = "lazyvim.plugins.extras.lang.java" },
   -- Java 文件特定设置
   {
     "nvim-treesitter/nvim-treesitter",
